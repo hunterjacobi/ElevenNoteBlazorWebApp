@@ -1,0 +1,12 @@
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/bin/Debug/net5.0/ElevenNoteWebApp.Shared.deps.json
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/bin/Debug/net5.0/ElevenNoteWebApp.Shared.dll
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/bin/Debug/net5.0/ref/ElevenNoteWebApp.Shared.dll
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/bin/Debug/net5.0/ElevenNoteWebApp.Shared.pdb
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.csproj.AssemblyReference.cache
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.AssemblyInfoInputs.cache
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.AssemblyInfo.cs
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.csproj.CoreCompileInputs.cache
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.dll
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ref/ElevenNoteWebApp.Shared.dll
+/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/Debug/net5.0/ElevenNoteWebApp.Shared.pdb

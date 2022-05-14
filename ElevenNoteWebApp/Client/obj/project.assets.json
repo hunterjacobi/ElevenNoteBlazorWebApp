@@ -1334,7 +1334,7 @@
       "outputPath": "/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/guccigod/.config/NuGet/NuGet.Config"
+        "/Users/guccigod/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
