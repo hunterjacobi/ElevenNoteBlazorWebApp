@@ -14,7 +14,7 @@
         "outputPath": "/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guccigod/.config/NuGet/NuGet.Config"
+          "/Users/guccigod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -104,7 +104,7 @@
         "outputPath": "/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guccigod/.config/NuGet/NuGet.Config"
+          "/Users/guccigod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -155,6 +155,10 @@
               "target": "Package",
               "version": "[5.0.16, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.16, )"
@@ -196,7 +200,7 @@
         "outputPath": "/Users/guccigod/Documents/SD134ImmersionFT/11NoteWebApp/ElevenNoteWebApp/ElevenNoteWebApp/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guccigod/.config/NuGet/NuGet.Config"
+          "/Users/guccigod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
