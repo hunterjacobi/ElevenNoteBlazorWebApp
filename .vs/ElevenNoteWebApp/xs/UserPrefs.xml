@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{1B5747FD-9C1F-4F6A-8F99-3BA19436D42F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ElevenNoteWebApp.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ElevenNoteWebApp.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ElevenNoteWebApp.Server FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
