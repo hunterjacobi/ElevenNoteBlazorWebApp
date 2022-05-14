@@ -17,6 +17,9 @@
 
   <ItemGroup>
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="Services\" />
+    <None Remove="Services\Note\" />
+    <None Remove="Services\Category\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.16" />
@@ -27,4 +30,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.16" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Note\" />
+    <Folder Include="Services\Category\" />
+  </ItemGroup>
 </Project>
