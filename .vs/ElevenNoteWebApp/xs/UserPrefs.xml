@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{1B5747FD-9C1F-4F6A-8F99-3BA19436D42F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Server/Controllers/NotesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Server/Controllers/CategoryController.cs">
     <Files>
-      <File FileName="ElevenNoteWebApp/Server/Controllers/NotesController.cs" Line="21" Column="40" />
+      <File FileName="ElevenNoteWebApp/Server/Controllers/NotesController.cs" Line="85" Column="61" />
       <File FileName="ElevenNoteWebApp/Server/Startup.cs" Line="1" Column="1" />
+      <File FileName="ElevenNoteWebApp/Server/Controllers/CategoryController.cs" Line="58" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,11 +11,19 @@
           <Node name="ElevenNoteWebApp" expanded="True">
             <Node name="ElevenNoteWebApp.Server" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="NotesController.cs" selected="True" />
+                <Node name="CategoryController.cs" selected="True" />
               </Node>
-              <Node name="Services" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Categories" expanded="True" />
+                <Node name="Notes" expanded="True" />
+              </Node>
             </Node>
-            <Node name="ElevenNoteWebApp.Shared" expanded="True" />
+            <Node name="ElevenNoteWebApp.Shared" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Note" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
