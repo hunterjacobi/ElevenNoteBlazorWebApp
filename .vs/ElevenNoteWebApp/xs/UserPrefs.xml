@@ -1,28 +1,22 @@
 ﻿<Properties StartupConfiguration="{1B5747FD-9C1F-4F6A-8F99-3BA19436D42F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Server/Controllers/CategoryController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Client/Pages/Category/Create.razor">
     <Files>
-      <File FileName="ElevenNoteWebApp/Server/Controllers/NotesController.cs" Line="85" Column="61" />
-      <File FileName="ElevenNoteWebApp/Server/Startup.cs" Line="1" Column="1" />
-      <File FileName="ElevenNoteWebApp/Server/Controllers/CategoryController.cs" Line="58" Column="53" />
+      <File FileName="ElevenNoteWebApp/Client/Shared/NavMenu.razor" Line="17" Column="84" />
+      <File FileName="ElevenNoteWebApp/Client/_Imports.razor" Line="13" Column="66" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Index.razor" Line="27" Column="48" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Create.razor" Line="1" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ElevenNoteWebApp" expanded="True">
-            <Node name="ElevenNoteWebApp.Server" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CategoryController.cs" selected="True" />
+            <Node name="ElevenNoteWebApp.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Category" expanded="True">
+                  <Node name="Create.razor" selected="True" />
+                </Node>
               </Node>
-              <Node name="Services" expanded="True">
-                <Node name="Categories" expanded="True" />
-                <Node name="Notes" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="ElevenNoteWebApp.Shared" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Category" expanded="True" />
-                <Node name="Note" expanded="True" />
-              </Node>
+              <Node name="Shared" expanded="True" />
             </Node>
           </Node>
         </State>
