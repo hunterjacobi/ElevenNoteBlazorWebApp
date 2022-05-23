@@ -10,6 +10,8 @@ using Microsoft.Extensions.Hosting;
 using System.Linq;
 using ElevenNoteWebApp.Server.Data;
 using ElevenNoteWebApp.Server.Models;
+using ElevenNoteWebApp.Server.Services.Notes;
+using ElevenNoteWebApp.Server.Services.Categories;
 
 namespace ElevenNoteWebApp.Server
 {
@@ -43,6 +45,9 @@ namespace ElevenNoteWebApp.Server
 
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddScoped<INoteService, NoteService>();
+            services.AddScoped<ICategoryService, CategoryService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

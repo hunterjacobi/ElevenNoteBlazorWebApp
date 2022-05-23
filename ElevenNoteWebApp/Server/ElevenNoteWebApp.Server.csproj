@@ -33,6 +33,6 @@
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Services\Notes\" />
-    <Folder Include="Services\Category\" />
+    <Folder Include="Services\Categories\" />
   </ItemGroup>
 </Project>
