@@ -12,7 +12,7 @@
             }
 
 <div class="container">
-    <EditForm Model="@model" OnInvalidSubmit="@HandleSubmit">
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
         <DataAnnotationsValidator />
         <ValidationSummary />
 

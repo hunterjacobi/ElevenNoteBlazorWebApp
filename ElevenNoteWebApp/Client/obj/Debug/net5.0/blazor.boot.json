@@ -198,12 +198,13 @@
       "mscorlib.dll": "sha256-RvlJgNNOrNqPypkseRqbe69kNd7hnKW0u6Bmt1305d4=",
       "netstandard.dll": "sha256-Ttq9E+RchoLMvC6pS8ktXuaz1r51vG7wSm1emPBPRrk=",
       "System.Private.CoreLib.dll": "sha256-7y7hjQvy9SAXBmGIcqlrFwPQioCDSax5WwjUDJYfRAk=",
-      "ElevenNoteWebApp.Shared.dll": "sha256-Q22szynejolX73V2rJo6iEqS7mUScndZj\/14j+G\/36o=",
-      "ElevenNoteWebApp.Client.dll": "sha256-yBi+yhNK6obGNWS1XENsGsiBTB7crg+6zNKeWQBEAJk="
+      "ElevenNoteWebApp.Shared.dll": "sha256-U9vkxC1LfM9lTByrbOXkO+LZCYcTMsI87fk4PRzfBf4=",
+      "ElevenNoteWebApp.Client.dll": "sha256-vzASjaJ\/\/LSub0Cay9xArYNVyq\/F71V1D9jToq\/JbMo="
     },
     "lazyAssembly": null,
     "pdb": {
-      "ElevenNoteWebApp.Client.pdb": "sha256-47cVgjVi6lMULD02JwV7E2kkTfXKF5qeiLL9KiAaSng="
+      "ElevenNoteWebApp.Shared.pdb": "sha256-k4qWtkEp2ENCFJeWLKG1qGYuWUHiad+OXR7imG6PwkI=",
+      "ElevenNoteWebApp.Client.pdb": "sha256-StM8ZMi\/giMAev0EHLhIqNXT70juwjhj9KzOV6BqvhE="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-jWuZI+z9wt0OfCMj+W5wh3HN+Ye6efC6YfCUWbBHBa8=",
