@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{1B5747FD-9C1F-4F6A-8F99-3BA19436D42F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Client/Pages/Category/Delete.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElevenNoteWebApp/Client/Pages/Note/Index.razor">
     <Files>
-      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Details.razor" Line="1" Column="1" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Details.razor" Line="24" Column="11" />
       <File FileName="ElevenNoteWebApp/Client/Pages/Category/Edit.razor" Line="40" Column="99" />
       <File FileName="ElevenNoteWebApp/Client/Pages/Category/Create.razor" Line="26" Column="1" />
-      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Delete.razor" Line="1" Column="1" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Delete.razor" Line="24" Column="19" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Category/Index.razor" Line="1" Column="1" />
+      <File FileName="ElevenNoteWebApp/Client/Pages/Note/Index.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,8 +14,9 @@
           <Node name="ElevenNoteWebApp" expanded="True">
             <Node name="ElevenNoteWebApp.Client" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Category" expanded="True">
-                  <Node name="Delete.razor" selected="True" />
+                <Node name="Category" expanded="True" />
+                <Node name="Note" expanded="True">
+                  <Node name="Index.razor" selected="True" />
                 </Node>
               </Node>
               <Node name="Shared" expanded="True" />
